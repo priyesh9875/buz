@@ -1,0 +1,17 @@
+<RCC>
+    <qresource >
+        <file>images/about.jpeg</file>
+        <file>images/buzz.jpeg</file>
+        <file>images/delete.jpeg</file>
+        <file>images/export.jpeg</file>
+        <file>images/faq.jpeg</file>
+        <file>images/find.jpeg</file>
+        <file>images/folder.png</file>
+        <file>images/import.jpeg</file>
+        <file>images/new_sub.jpeg</file>
+        <file>images/open_url.png</file>
+        <file>images/preferences.jpeg</file>
+        <file>images/properties.jpeg</file>
+        <file>images/refresh.jpeg</file>
+    </qresource>
+</RCC>
