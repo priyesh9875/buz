@@ -1,6 +1,20 @@
-# Buzz: Feed aggreator
+# Buzz: Feed aggregator
 
 Minimal version of [liferea](https://lzone.de/liferea/) feed reader in python3 and pyside library.
+
+
+Main page                                                                      |  Add new subscription
+:-----------------------------------------------------------------------------:|:-------------------------:
+![](https://github.com/priyesh9875/buzz/blob/master/Screen/main%20screen.png)  |  ![](https://github.com/priyesh9875/buzz/blob/master/Screen/adding%20item.png)
+
+Subscription added                                                            |  Context menu
+:----------------------------------------------------------------------------:|:-------------------------:
+![](https://github.com/priyesh9875/buzz/blob/master/Screen/item%20added.png)  |  ![](https://github.com/priyesh9875/buzz/blob/master/Screen/context%20menu.png)
+
+File menu                                                                   |  Search result
+:--------------------------------------------------------------------------:|:-------------------------:
+![](https://github.com/priyesh9875/buzz/blob/master/Screen/file%20menu.png) | ~![](https://github.com/priyesh9875/buzz/blob/master/Screen/search%20result.png)
+
 
 
 -----
